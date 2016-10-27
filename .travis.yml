@@ -1,0 +1,5 @@
+language: java
+notifications:
+  email:
+    - mstaehely@gmail.com
+  on_success: always
